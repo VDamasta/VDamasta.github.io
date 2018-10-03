@@ -1,2 +1,1 @@
-name: First website
-	markdown: kramdown
+theme: jekyll-theme-minimal
